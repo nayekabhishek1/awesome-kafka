@@ -1,14 +1,22 @@
-# awesome-kafka
+# Awesome Kafka
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of awesome articles, tutorials, courses, and resources for the Apache Kafka ecosystem.
 
 ![20201021_Introduction-to-Apache-Kafka_BLOG-FEATURED-IMAGE](https://user-images.githubusercontent.com/13417552/122371020-2bf0e000-cf7d-11eb-9627-07833cf0d9c2.jpg)
 
 
-**Contribution**
+## Contributing
+
+Contributions are very welcome!
+
 - Fork the repo
 - Star the repo
 - Raise Pull Request to branch 'main'
 - Make sure to check for duplicacy before raising pull request.
 
+Thank you!
 
 Table of Contents
 =================
