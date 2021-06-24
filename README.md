@@ -40,6 +40,7 @@ Table of Contents
    * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
    * [Event Sourcing: What it is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome)
    * [Introducing Kafka Streams: Stream Processing Made Simple](http://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple)
+   * [SSL Authentication with Apache Kafka](https://medium.com/contino-engineering/ssl-authentication-with-apache-kafka-e8285bfe90a5)
    * [Kafka Cheet Sheet](https://github.com/Landoop/kafka-cheat-sheet)
    * [Apache Kafka for Beginners](http://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/)
    * [Introduction to Stream Processing using Kafka Streams](https://www.loginradius.com/engineering/blog/stream-processing-using-kafka/)
