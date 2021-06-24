@@ -56,6 +56,7 @@ Table of Contents
    * [All linked in tech blog kafka tagged articles](https://engineering.linkedin.com/blog/topic/kafka)
    * [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
    * [Maven quick start for Kafka Connect connectors](https://github.com/jcustenborder/kafka-connect-archtype)
+   * [Kafka Listeners - Explained](https://rmoff.net/2018/08/02/kafka-listeners-explained/)
 
 ## UI / Cluster management  
  
