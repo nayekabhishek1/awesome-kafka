@@ -80,6 +80,7 @@ Table of Contents
    * [Kafka Rust - Rust client for Apache Kafka.](https://github.com/kafka-rust/kafka-rust)
    * [librdkafka - The Apache Kafka C/C++ library.](https://github.com/edenhill/librdkafka)
    * [Franz-go - franz-go is a feature complete client written in native Go.)](https://github.com/twmb/franz-go)
+   * [KafkaFlow - A .NET framework to create Kafka based applications, simple to use and extend.](https://github.com/Farfetch/kafka-flow)
 
 ## CLI / Tools 
 
